@@ -19,6 +19,8 @@ import matplotlib.pyplot as plt
 
 ### Obtendo o conjunto de dados
 
+Os arquivos .csv referentes as licitacões e itens de cada ano foram unidos em dois conjuntos de dados.
+
 ```
 def concatenate(files):
   aux = pd.DataFrame()
@@ -182,7 +184,7 @@ Para realizar a contagem dos objetos em DS_OBJETO é necessário que o formato d
 
 A fim de descobrir quais foram os 10 objetos mais comprados pelos órgãos públicos, então foi obtida a frequência de cada objeto no dataframe licitacao. A coluna index representa o valor numérico associado a um determinado objeto.
 
-![image](https://user-images.githubusercontent.com/32077255/128228128-552100df-676f-4235-9b03-bd084f956431.png)
+![image](https://user-images.githubusercontent.com/32077255/128231602-0a56b144-518c-47ff-8588-98a4e49d3cef.png)
 
 ### Visualização dos dados 
 
