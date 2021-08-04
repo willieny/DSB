@@ -184,13 +184,13 @@ Para realizar a contagem dos objetos em DS_OBJETO é necessário que o formato d
 
 A fim de descobrir quais foram os 10 objetos mais comprados pelos órgãos públicos, então foi obtida a frequência de cada objeto no dataframe licitacao. A coluna index representa o valor numérico associado a um determinado objeto.
 
-![image](https://user-images.githubusercontent.com/32077255/128231602-0a56b144-518c-47ff-8588-98a4e49d3cef.png)
+![image](https://user-images.githubusercontent.com/32077255/128228128-552100df-676f-4235-9b03-bd084f956431.png)
 
 ### Visualização dos dados 
 
 O gráfico a seguir representa os 10 objetos mais comprados pelos órgãos públicos entre 2016 e 2019.
 
-![image](https://user-images.githubusercontent.com/32077255/128228128-552100df-676f-4235-9b03-bd084f956431.png)
+![image](https://user-images.githubusercontent.com/32077255/128231602-0a56b144-518c-47ff-8588-98a4e49d3cef.png)
 
 Ademais, foram obtidos gráficos relacionados a cada ano para obter uma visão mais aprofundada e encontrar algum padrão nas compras.
 
